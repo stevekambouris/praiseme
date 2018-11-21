@@ -1,5 +1,6 @@
 #' Praise gives praise
 #' @description This function returns a message of praise when invoked.
+#' @param name The name of the person to be praised.
 #'
 #' @return
 #' @export
