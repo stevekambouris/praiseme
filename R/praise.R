@@ -6,5 +6,6 @@
 #'
 #' @examples
 praise <- function (name = "Steve") {
-  paste0("You are the best, ", name, "!")
+  #paste0("You are the best, ", name, "!")
+  glue::glue("You are the best, {name}!")
 }
