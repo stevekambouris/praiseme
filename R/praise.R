@@ -5,6 +5,6 @@
 #' @export
 #'
 #' @examples
-praise <- function () {
-  paste0("You are the best!")
+praise <- function (name = "Steve") {
+  paste0("You are the best, ", name, "!")
 }
