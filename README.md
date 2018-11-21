@@ -14,10 +14,10 @@ You can install this version of praiseme from [GitHub](https://github.com/stevek
 remotes::install_github("stevekambouris/praiseme")
 ```
 
-Example
--------
+Example of the `praise()` function
+----------------------------------
 
-This is a basic example which shows you how to solve a common problem:
+The following shows how to use the `praise()` function:
 
 ``` r
 library(praiseme)
