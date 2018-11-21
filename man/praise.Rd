@@ -6,6 +6,9 @@
 \usage{
 praise(name = "Steve")
 }
+\arguments{
+\item{name}{The name of the person to be praised.}
+}
 \description{
 This function returns a message of praise when invoked.
 }
