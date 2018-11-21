@@ -8,7 +8,7 @@ The goal of praiseme is to deliver praise to the user (or whoever).
 Installation
 ------------
 
-You can install the released version of praiseme from [CRAN](https://CRAN.R-project.org) with:
+You can install this version of praiseme from [GitHub](https://github.com/stevekambouris/praiseme) with:
 
 ``` r
 remotes::install_github("stevekambouris/praiseme")
